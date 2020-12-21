@@ -1,0 +1,38 @@
+div{
+border:solid 3px pink;
+color:black;
+margin:5px;
+background:blue; 
+} 
+#b1{
+	background:yellow;
+}
+#b2{
+	/*width: 50%;*/
+	color:white;
+	float:middle;	
+}
+
+#b3{
+	color: black;
+	width: 30%;
+	float: left;
+}
+#b4{
+	width:40%;
+	float:left;
+}
+#b5{
+width: 25%;
+float: left;
+}
+#b6{
+	clear:left;
+color:white;
+}
+
+  
+.y{
+	background: grey;
+	padding: 5px;
+	}
